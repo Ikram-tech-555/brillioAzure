@@ -1,6 +1,3 @@
-Here's a sample README content for your GitHub repository, covering **Azure App Configuration**, **Container App**, **Dev Center**, **Function App**, and **Hub and Spoke** architecture. This version keeps things clear, concise, and attractive for users:
-
----
 
 # Azure Infrastructure Setup: Key Services and Architecture
 
@@ -81,4 +78,4 @@ Happy coding! 💻🚀
 
 --- 
 
-This README offers a brief yet powerful overview of Azure services to help users understand and implement them with ease.
+
