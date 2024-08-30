@@ -1,7 +1,7 @@
 
 # Azure Infrastructure Setup: Key Services and Architecture
 
-Welcome to the **Azure Infrastructure** project! This repository contains a structured guide to setting up and managing several essential Azure services, providing you with the flexibility and scalability to build and deploy cloud-native applications.
+Welcome to the **Azure Infrastructure** repo! This repository contains a structured guide to setting up and managing several essential Azure services, providing you with the flexibility and scalability to build and deploy cloud-native applications.
 
 ## 1. Azure App Configuration
 
